@@ -7,7 +7,6 @@ Reg No: 212223040143
 `
 
 ## Aim:
-
 To study the execution of various Linux operating system commands.
 
 ## Linux:
@@ -253,28 +252,4 @@ Syntax: find.-name”*.pdf”
 
 ## Result:
 
-Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Result:
-
-Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
+Thus, the execution of various Linux commands is executed successfully using Ubuntu
