@@ -1,5 +1,10 @@
 # Ex-01-Linux-Commands
-
+`
+Name: REVANTH.P
+`
+`
+Reg No: 212223040143
+`
 
 ## Aim:
 
